@@ -1,0 +1,9 @@
+
+
+class PrimeFactor {
+
+};
+
+int main() {
+
+}
